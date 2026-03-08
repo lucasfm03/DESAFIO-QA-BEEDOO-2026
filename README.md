@@ -77,7 +77,7 @@ https://docs.google.com/spreadsheets/d/1WytL6Up5jGTWb721bymHgAWuPBSZqEY6aTQOndev
 
 As evidências da execução dos testes, incluindo capturas de tela, estão disponíveis na pasta /evidencias deste repositório ou no link abaixo:
 
-[LINK DO GOOGLE DRIVE]
+https://drive.google.com/drive/folders/1wiC9LVa552sZ9yP9Hq2xp6QwsNlejujc?usp=sharing
 
 ## Bugs encontrados
 
